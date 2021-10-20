@@ -6,6 +6,7 @@ Bulk local pseudopotentials (BLPSs) and globally-optimized local pseudopotential
 
  - recpot
  - psp8 (.lps)
+ - upf
 
 ## Links
 
