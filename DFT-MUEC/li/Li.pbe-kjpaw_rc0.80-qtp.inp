@@ -1,0 +1,23 @@
+Li 3
+GGA-PBE loggrid 2001
+2 2 0 0 0 0 
+2 1 0 
+2 0 1 
+0 0 0 
+v 
+v 
+v 
+1
+0.80
+n 
+n 
+VANDERBILT   
+2 0
+0.80
+0.80
+0.80
+2
+usexcnhat
+3
+usexcnhat
+0

@@ -1,0 +1,6 @@
+[submodule "EAC/local-pseudopotentials"]
+	path = EAC/local-pseudopotentials
+	url = https://github.com/EACcodes/local-pseudopotentials.git
+[submodule "OEPP/OEPP"]
+	path = OEPP/OEPP
+	url = https://gitlab.com/wenhui/OEPP.git
