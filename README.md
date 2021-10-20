@@ -4,9 +4,7 @@ This is a library of pseudopotentials (PPs) for Orbital-Free Density Functional 
 
 ## Download
 
-    ```shell
 	git clone --recurse-submodules https://gitlab.com/shaoxc/ofpp.git
-    ```
 
 ## Pseudopotentials
 

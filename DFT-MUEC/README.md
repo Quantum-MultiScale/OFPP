@@ -2,6 +2,13 @@
 
 The transferable pseudopotentials are developed for H, Li, and Al in WDM conditions by [Density Functional Theory for Matter under Extreme Conditions](http://www.qtp.ufl.edu)
 
+## Formats
+
+ - recpot
+ - upf
+ - abinit
+ - atompaw (.inp)
+
 ## Links
 
  - [web](http://www.qtp.ufl.edu/ofdft/research/computation.shtml)
