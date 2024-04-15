@@ -4,3 +4,6 @@
 [submodule "OEPP/OEPP"]
 	path = OEPP/OEPP
 	url = https://gitlab.com/wenhui/OEPP.git
+[submodule "HQLPP/local_pseudopotential_files"]
+	path = HQLPP/local_pseudopotential_files
+	url = https://github.com/chenhuang3/local_pseudopotential_files.git
