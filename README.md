@@ -25,3 +25,9 @@ Pseudopotentials for transition metal elements based on GBRV and PSL by [PRG](ht
 ### DFT-MUEC
 
 The transferable pseudopotentials are developed for H, Li, and Al in WDM conditions by [Density Functional Theory for Matter under Extreme Conditions](https://ofdft.phys.ufl.edu/)
+
+### High-Quality Local PPs from Chen Huang's group
+[High-Quality Local Pseudopotentials for Metals](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00101)
+
+
+
